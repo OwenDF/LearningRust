@@ -100,3 +100,8 @@ version.md
 version.ml
 version.texi
 .cargo
+###Specific binaries
+Debug
+Format
+HelloWorld
+List
